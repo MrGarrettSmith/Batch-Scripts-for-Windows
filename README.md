@@ -13,8 +13,6 @@ This script completely eliminates that tiresome and laborious process!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/><br>
 
-### Notes:<br>
-
 * Modify the script and ensure it looks for the correct executibles.
 * The commands use partial names to locate files.
 * The script will look for files in the same directory.
@@ -31,7 +29,6 @@ Use this script to uninstall all of them at once!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Uninstall%20Bundled%20Programs.png" alt="" width="800"/>
 
-### Notes:<br>
 * This script will work as is.
 * There is an additional command to install winget in order to remove other programs.
 * Some Windows Store apps may not be included in this script and may need to be manually added.
@@ -46,6 +43,5 @@ Use this script to customize and configure Windows to your desired preferences i
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Set%20Windows%20Settings.png" alt="" width="800"/>
 
-### Notes:<br>
 * This script will modify registry entries to configure Windows settings!
 * Review the commands and ensure the preferred settings are condigured.
