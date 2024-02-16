@@ -45,3 +45,7 @@ Windows installs with many unwanted settings.<br>
 Use this script to customize and configure Windows to your desired preferences in one go!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Set%20Windows%20Settings.png" alt="" width="800"/>
+
+### Notes:<br>
+* This script will modify registry entries to configure Windows settings!
+* Review the commands and ensure the preferred settings are condigured.
