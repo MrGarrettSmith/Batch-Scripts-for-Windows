@@ -11,9 +11,9 @@ If you've just installed a fresh copy of Windows, you probably have many program
 The process of clicking through all of those installers can be exhausting...<br>
 This script completely eliminates that tiresome and laborious process!
 
-<img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/>
+<img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/><br>
 
-### Notes:
+### Notes:<br>
 * Before beginning, make sure to modify the script and ensure it looks for the correct executibles.
 * The script will look for files in the same directory.
 * There are additional commands that are able to:
