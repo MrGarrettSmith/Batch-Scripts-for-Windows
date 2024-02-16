@@ -1,2 +1,0 @@
-Run the .bat as an Administrator
-Once the script opens in PowerShell ISE, select all code and press F8
