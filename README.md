@@ -44,4 +44,4 @@ Use this script to customize and configure Windows to your desired preferences i
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Set%20Windows%20Settings.png" alt="" width="800"/>
 
 * This script will modify registry entries to configure Windows settings!
-* Review the commands and ensure the preferred settings are condigured.
+* Review the commands and ensure the preferred settings are configured.
