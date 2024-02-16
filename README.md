@@ -33,7 +33,7 @@ Use this script to uninstall all of them at once!
 ### Notes:<br>
 * This script will work as is.
 * There is an additional command to install winget in order to remove other programs.
-* Some Windows Store apps may not be included in this script.
+* Some Windows Store apps may not be included in this script and may need to be manually added.
 * To see all the Windows Stores apps installed, run Command Prompt as an Adminstrator and use this command:
 
 ```powershell Get-AppxPackage -AllUsers ^| Select Name, PackageFullName```
