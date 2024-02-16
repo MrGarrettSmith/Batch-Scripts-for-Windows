@@ -15,9 +15,9 @@ This script completely eliminates that tiresome and laborious process!
 
 ### Notes:<br>
 
-* Modify the script and ensure it looks for the correct executibles.
-* The script will look for files in the same directory.
-* There are additional commands that are able to:
+Modify the script and ensure it looks for the correct executibles.
+The script will look for files in the same directory.
+There are additional commands that are able to:
   * Terminate processes to ensure there are no interruptions.
   * Unarchive zip files.
   * Move configuration files to specific directories.
