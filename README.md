@@ -15,6 +15,9 @@ This script completely eliminates that tiresome and laborious process!
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/>
 
 ## 🗈 Uninstall Bundled Programs
+Windows includes sponsored and bundled programs in the Home and Pro editions of their operating system.<br>
+Unless you've installed an Enterprise version, there will be several unnecessary programs.<br>
+Use this script to uninstall all of them at once!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Uninstall%20Bundled%20Programs.png" alt="" width="800"/>
 
