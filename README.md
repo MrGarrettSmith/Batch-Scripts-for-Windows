@@ -3,4 +3,9 @@ Helpful scripts to optimize, declutter, configure settings and batch install pro
 
 **Note:** These scripts may need to be modified to suit specific needs. These were all created and tested on Windows 10.
 
-### 🗈 Batch Install Programs Unattended
+## 🗈 Batch Install Programs Unattended
+If you've just installed a fresh copy of Windows, you probably have many programs that you need to install.
+The process of clicking through all of those installers can be exhausting...
+This script completely eliminates that tiresome and laborious process!
+
+* Requires to be run as an Administrator.
