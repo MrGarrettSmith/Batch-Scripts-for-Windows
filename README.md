@@ -29,6 +29,7 @@ Unless you've installed an Enterprise version, there will be several unnecessary
 Use this script to uninstall all of them at once!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Uninstall%20Bundled%20Programs.png" alt="" width="800"/>
+
 ### Notes:<br>
 * This script will work as is.
 * There is an additional command to install winget in order to remove other programs.
