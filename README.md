@@ -13,3 +13,11 @@ The process of clicking through all of those installers can be exhausting...<br>
 This script completely eliminates that tiresome and laborious process!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/>
+
+## 🗈 Uninstall Bundled Programs
+
+<img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Uninstall%20Bundled%20Programs.png" alt="" width="800"/>
+
+## 🗈 Uninstall Bundled Programs
+
+<img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Set%20Windows%20Settings.png" alt="" width="800"/>
