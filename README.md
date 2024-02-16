@@ -14,6 +14,7 @@ This script completely eliminates that tiresome and laborious process!
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Install%20Programs%20Unattended.png" alt="" width="800"/><br>
 
 ### Notes:<br>
+
 * Modify the script and ensure it looks for the correct executibles.
 * The script will look for files in the same directory.
 * There are additional commands that are able to:
