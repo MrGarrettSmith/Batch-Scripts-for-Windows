@@ -6,7 +6,6 @@
 * Each require to be ran as an Administrator.
 * At launch, a brief prompt will require user input for confirmation.
 
-
 ## 🗈 Install Programs Unattended
 If you've just installed a fresh copy of Windows, you probably have many programs that you need to install.<br>
 The process of clicking through all of those installers can be exhausting...<br>
@@ -21,6 +20,7 @@ Use this script to uninstall all of them at once!
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Uninstall%20Bundled%20Programs.png" alt="" width="800"/>
 
-## 🗈 Uninstall Bundled Programs
+## 🗈 Set Windows Settings
+
 
 <img src="https://raw.githubusercontent.com/MrGarrettSmith/Batch-Scripts-for-Windows/main/_Screenshots/Set%20Windows%20Settings.png" alt="" width="800"/>
